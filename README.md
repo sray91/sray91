@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @sray91
-- 👀 I’m interested in smart contracts on the Ethereum blockchain.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on new dApps and blockchain applications.
 - 📫 How to reach me eewatchguy@gmail.com
